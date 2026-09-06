@@ -1,0 +1,5 @@
+PyQt5>=5.15
+requests>=2.28
+winrt-windows-media-control>=3.0
+winrt-windows-foundation>=3.0
+winrt-windows-storage>=3.0
